@@ -20,7 +20,7 @@ python version_scanner.py --target 192.168.1.1
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/VersionScanner.git
+git clone https://github.com/0xGENTLEMAN/VersionScanner.git
 cd VersionScanner
 ```
 
@@ -35,4 +35,5 @@ No unnecessary fluff, just straight-to-the-point scanning.
 📝 Contributing
 
 Feel free to open issues, suggest features, or submit pull requests.
+
 Your contributions are always welcome!
